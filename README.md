@@ -3,7 +3,7 @@
 
 
 <h2>Description:</h2>
-I was bored and I wanted to practice my Phyton. So, I created a simple prompt program that could be used in kiosks where you would order stuff.
+I was bored and I wanted to practice my newly learned python skills. So, I created a simple prompt program that could be used in kiosks where you would order stuff.
 
 <br />
 
